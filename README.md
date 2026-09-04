@@ -107,14 +107,6 @@ Recall is particularly important for customer churn because identifying more pot
 * `Bank_Customer_Churn.csv` – Dataset
 * `README.md` – Assignment documentation
 
-## 🔗 Dataset
-
-[Kaggle – Bank Customer Churn Dataset](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset)
-
-## 🔗 Google Colab
-
-https://colab.research.google.com/drive/1iznhoaCda6MXz_DDKcWNZ9EG3Ctg2DiB
-
 ## ✅ Result
 
 The Logistic Regression model was successfully developed to predict customer churn for ABC Bank. The analysis identified important factors associated with churn and can help support customer retention strategies.
